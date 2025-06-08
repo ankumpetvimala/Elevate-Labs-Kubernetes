@@ -1,10 +1,10 @@
-# DevOps Internship Task 5: Kubernetes Cluster with Minikube
+# Task 5: Kubernetes Cluster with Minikube
 
 This repository contains my solution for **Task 5** of the DevOps Internship: setting up a Kubernetes cluster using **Minikube** on an AWS **Ubuntu EC2** instance, deploying an **Nginx** application, and exposing it using a **NodePort** service accessible on the EC2 public IP.
 
 ---
 
-## 📌 Overview
+## Overview
 
 - **Kubernetes** set up via **Minikube** on an EC2 Ubuntu instance.
 - Deployed an **Nginx** application with 2 replicas initially.
@@ -35,8 +35,6 @@ This repository contains my solution for **Task 5** of the DevOps Internship: se
    - `minikube`
    - 
 3. Started Minikube with Docker driver:
-   
-   minikube start --driver=docker
    
 4.Created and applied deployment.yaml for Nginx.
 
