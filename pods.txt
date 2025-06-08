@@ -1,0 +1,3 @@
+NAME                              READY   STATUS    RESTARTS   AGE
+nginx-deployment-96b9d695-9rh9n   1/1     Running   0          11m
+nginx-deployment-96b9d695-bt225   1/1     Running   0          11m
