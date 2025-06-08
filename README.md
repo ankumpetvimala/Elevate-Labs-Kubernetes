@@ -36,13 +36,13 @@ This repository contains my solution for **Task 5** of the DevOps Internship: se
 
 3. Started Minikube with Docker driver:
    
-4.Created and applied deployment.yaml for Nginx.
+ 4.Created and applied deployment.yaml for Nginx.
 
-5.Exposed the app with service.yaml (NodePort 30007).
+ 5.Exposed the app with service.yaml (NodePort 30007).
 
-6.Scaled the deployment to 4 replicas.
+ 6.Scaled the deployment to 4 replicas.
 
-7.Verified pods, services, and accessed the app at http://<ec2-public-ip>:30007.
+ 7.Verified pods, services, and accessed the app at http://<ec2-public-ip>:30007.
 
 ## Access
 
