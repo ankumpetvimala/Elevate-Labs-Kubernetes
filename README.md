@@ -34,7 +34,7 @@ This repository contains my solution for **Task 5** of the DevOps Internship: se
    - `kubectl`
    - `minikube`
 
-3. Started Minikube with Docker driver:
+ 3. Started Minikube with Docker driver:
    
  4.Created and applied deployment.yaml for Nginx.
 
